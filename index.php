@@ -48,10 +48,10 @@ function MM_swapImage() { //v3.0
     <!-- end .header --></div>
   </div>
   <div class="sidebar1"><a href="index.html">home</a><br>
-    <a href="lineup.html">lineup</a><br>
-    <a href="schedule.html">schedule</a><br>
-    <a href="tickets.html">tickets</a><br>
-    <a href="directions.html">directions </a><br>
+    <a href="lineup.php">lineup</a><br>
+    <a href="schedule.php">schedule</a><br>
+    <a href="tickets.php">tickets</a><br>
+    <a href="directions.php">directions </a><br>
   <!-- end .sidebar1 --></div>
   <div class="content">
     <h1>antifest, home of the world's freest festival</h1>
